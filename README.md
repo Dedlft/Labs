@@ -1,2 +1,2 @@
 # Labs
-RTU MIREA Labs
+Labs Repository
